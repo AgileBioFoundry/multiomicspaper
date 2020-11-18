@@ -1,4 +1,4 @@
-# Multimomics paper repo
+# Multiomics paper repo
 
 
 We present a set of tools that, combined, provide the ability to store, visualize and leverage multiomics data to predict the outcome of bioengineering efforts. 
