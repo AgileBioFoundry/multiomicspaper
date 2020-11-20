@@ -20,7 +20,10 @@ By combining these tools with **Jupyter notebooks** we show how to pinpoint gene
 
 ## Requirements
 
-Provided notebooks run on two different Jupyter lab kernels, for which we provide a set of requirements in the `kernel_requirements` directory.
+Provided notebooks run on two different Jupyter lab kernels, for which we provide a set of requirements in the [`kernel_requirements`](https://github.com/AgileBioFoundry/multiomicspaper/tree/master/kernel_requirements) directory.
+
+Running the notebooks requires the [ART](https://github.com/JBEI/ART) and [OMG](https://github.com/JBEI/OMG) libraries. In addition, OMG relies on a commercial package [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio?), for which academic licenses are available. 
+Academic and commercial [licenses](https://github.com/JBEI/ART#license) for ART are available upon request.
 
 ## Installation Guide
 
@@ -30,9 +33,7 @@ Clone this repository to your local machine:
 
 ## Instructions for use
 
-Step by step (https://sites.google.com/lbl.gov/esedataautomation/data-analysis/multiomics-tutorial?authuser=0)
-
-A set of Jupyter notebooks are provided in the [`notebooks`](https://github.com/AgileBioFoundry/multiomicspaper/tree/master/notebooks) directory.
+Step-by-step instructions for guiding metabolic engineering via multiomics data and machine learning using a set of  [`notebooks`](https://github.com/AgileBioFoundry/multiomicspaper/tree/master/notebooks)  and screencasts are provided [here](https://sites.google.com/lbl.gov/esedataautomation/data-analysis/multiomics-tutorial?authuser=0).
 
 ## Reference
 
