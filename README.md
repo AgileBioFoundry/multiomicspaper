@@ -59,4 +59,5 @@ its behalf a paid-up, nonexclusive, irrevocable, worldwide license in the
 Software to reproduce, distribute copies to the public, prepare derivative 
 works, and perform publicly and display publicly, and to permit others to do so.
 
+![example branch parameter](https://github.com/AgileBioFoundry/multiomicspaper/actions/workflows/blank.yml/badge.svg?branch=Test-Github)
 
