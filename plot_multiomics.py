@@ -49,8 +49,8 @@ def plot_distribution_of_designs(df):
             ax.text(x,y, "%d%%" % (data[j][i]), ha='center')
 
     ax.set_title('Distribution of modifications')
-    plt.tick_params(top='off', bottom='off', left='off', right='off', labelleft='on', 
-                    labelbottom='off')
+    plt.tick_params(top=False, bottom=False, left=False, right=False, labelleft=True, 
+                    labelbottom=False)
     plt.yticks(y_pos, reactions)
     ax.invert_yaxis()
     ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
