@@ -37,7 +37,7 @@ Step-by-step instructions for guiding metabolic engineering via multiomics data 
 
 ## Reference
 
-Roy S., Radivojević T. et al. Multiomics data collection, visualization, and utilization for guiding metabolic engineering [(biorxiv 2020)](https://www.biorxiv.org/content/10.1101/2020.10.15.341909v2)
+[Roy S., Radivojević T. et al., Multiomics Data Collection, Visualization, and Utilization for Guiding Metabolic Engineering, Front. Bioeng. Biotechnol. (2021)](https://www.frontiersin.org/articles/10.3389/fbioe.2021.612893/full)
 
 ## License
 
